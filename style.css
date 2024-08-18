@@ -1,0 +1,79 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    color: white;
+}
+.container-main{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+card{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.footer{
+    background-color: orange;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.one{
+    margin-left: 40px;
+}
+.two{
+    margin-right: 40px;
+}
+.hero{
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+    height: 100px;
+    width: 350px;
+}
+.side-left{
+    background-color: rgb(85, 184, 85);
+    text-align: center;
+    padding: 50px;
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+}
+.main-content{
+    background-color: gold;
+    text-align: center;
+    padding: 50px;
+    height: 300px;
+    width: 600px;
+}
+.extra-content{
+    background-color: gray;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    height: 100px;
+}
+.related-images{
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    width: 600px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.related-posts{
+    background-color: lightpink;
+    text-align: center; 
+    padding: 50px;
+    margin-right: 40px;
+    width: 400px;
+}
